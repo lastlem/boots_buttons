@@ -1,1 +1,15 @@
 master и demo отличаются README файлом. В demo в README файле написано, что у человека есть кнопки, а в master это не прописано
+
+Видно 12 коммитов.
+1. init
+2. heat added
+3. boots
+4. README added
+5. dots
+6. fix readme
+7. Merge remote-tracking branch 'refs/remotes/origin/boots' into boots_buttons
+8. Merge remote-tracking branch 'refs/remotes/origin/buttons' into boots_buttons
+9. Merge remote-tracking branch 'refs/remotes/yandex/hat'
+10. Merge branch 'refs/heads/boots_buttons'
+11. Разница между demo и master
+12. Merge pull request #1 from lastlem/master
